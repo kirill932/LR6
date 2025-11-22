@@ -3,20 +3,26 @@
 
 Ход работы
 Скриношоты представлены в папке screenshots
+
 Аккаунт на github уже был.
+
 Сделана копия в личное хранилище из https://github.com/Kurtyanik/LR6/.
+
 Git уже был установлен.
+
 Настроен клиент git, введено имя пользователя (Группа Фамилия И.О.) и email.
 
 <img width="449" height="159" alt="image" src="https://github.com/user-attachments/assets/34f4b109-ece0-4398-bcf9-89e589e8e97c" />
 
 
 Клонирован свой личный удалённый репозиторий на компьютер.
+
 <img width="527" height="174" alt="image" src="https://github.com/user-attachments/assets/372bd906-daa4-47ff-9269-1c969cac23db" />
 
 
 Добавлен файл через интерфейс GitHub. Подтянуты изменения в локальный репозиторий.
- <img width="1280" height="875" alt="image" src="https://github.com/user-attachments/assets/7b722eaf-9d63-4b9c-8c28-ab8d5bcd7302" />
+
+<img width="1280" height="875" alt="image" src="https://github.com/user-attachments/assets/7b722eaf-9d63-4b9c-8c28-ab8d5bcd7302" />
  
 <img width="566" height="249" alt="image" src="https://github.com/user-attachments/assets/fccc316a-e66c-44db-be97-dd23dbc3789f" />
 
@@ -74,12 +80,14 @@ Git уже был установлен.
 
 
 Сделан откат коммита.
+
 <img width="464" height="97" alt="image" src="https://github.com/user-attachments/assets/5348188b-394d-4729-925e-4d556fa50378" />
 
 <img width="539" height="403" alt="image" src="https://github.com/user-attachments/assets/15723ea5-71de-4e73-aaa7-816119709549" />
 
 
 Создана ветка для отчёта.
+
 <img width="460" height="211" alt="image" src="https://github.com/user-attachments/assets/26d6a5d6-07a5-431a-964a-f054b3e0fa84" />
 
 
