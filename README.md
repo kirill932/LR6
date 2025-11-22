@@ -48,9 +48,9 @@ https://github.com/Kurtyanik/LR6/.
 
 <img width="1116" height="655" alt="image" src="https://github.com/user-attachments/assets/69826f58-3486-45c7-838b-8977699c60a1" />
 
-<img width="561" height="120" alt="image" src="https://github.com/user-attachments/assets/22da31a1-e743-4d67-857f-489728cdbed7" />
+[<img width="561" height="120" alt="image" src="https://github.com/user-attachments/assets/22da31a1-e743-4d67-857f-489728cdbed7" />
 
-<img width="355" height="150" alt="image" src="https://github.com/user-attachments/assets/4eebfe1c-7a72-4f07-8a18-2290bba5d067" />
+<img width="355" height="150" alt="image" src="https://github.com/user-attachments/assets/4eebfe1c-7a72-4f07-8a18-2290bba5d067" />](https://github.com/kirill932/LR6/blob/other/README.md)
 
 
 
@@ -74,9 +74,9 @@ https://github.com/Kurtyanik/LR6/.
 
 Сделан откат коммита.
 
-<img width="464" height="97" alt="image" src="https://github.com/user-attachments/assets/5348188b-394d-4729-925e-4d556fa50378" />
+[<img width="464" height="97" alt="image" src="https://github.com/user-attachments/assets/5348188b-394d-4729-925e-4d556fa50378" />
 
-<img width="539" height="403" alt="image" src="https://github.com/user-attachments/assets/15723ea5-71de-4e73-aaa7-816119709549" />
+<img width="539" height="403" alt="image" src="https://github.com/user-attachments/assets/15723ea5-71de-4e73-aaa7-816119709549" />](https://github.com/kirill932/LR6/blob/other/README.md)
 
 
 Создана ветка для отчёта.Получена история операций в форматированном виде
