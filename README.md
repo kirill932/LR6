@@ -38,9 +38,8 @@ https://github.com/Kurtyanik/LR6/.
 
 Выполнено слияние в ветку master, разрешён конфликт.
 
-<img width="288" height="187" alt="image" src="https://github.com/user-attachments/assets/a49f4155-6bea-42cf-a9c3-49fd8ad4d79e" />
+<img width="304" height="337" alt="image" src="https://github.com/user-attachments/assets/bfd049a2-a6cb-47da-a0b3-67e662e4f571" />
 
-<img width="257" height="112" alt="image" src="https://github.com/user-attachments/assets/0545ac7b-3090-4322-a1c7-d360f2a5d89c" />
 
 <img width="1129" height="654" alt="image" src="https://github.com/user-attachments/assets/49435d65-2ec8-43ce-ae25-f53048e51fc7" />
 
@@ -48,9 +47,7 @@ https://github.com/Kurtyanik/LR6/.
 
 <img width="1116" height="655" alt="image" src="https://github.com/user-attachments/assets/69826f58-3486-45c7-838b-8977699c60a1" />
 
-[<img width="561" height="120" alt="image" src="https://github.com/user-attachments/assets/22da31a1-e743-4d67-857f-489728cdbed7" />
-
-<img width="355" height="150" alt="image" src="https://github.com/user-attachments/assets/4eebfe1c-7a72-4f07-8a18-2290bba5d067" />](https://github.com/kirill932/LR6/blob/other/README.md)
+<img width="603" height="385" alt="image" src="https://github.com/user-attachments/assets/0aa6939f-1ddd-4517-8e4d-76f8b4cbcfd3" />
 
 
 
@@ -74,9 +71,8 @@ https://github.com/Kurtyanik/LR6/.
 
 Сделан откат коммита.
 
-[<img width="464" height="97" alt="image" src="https://github.com/user-attachments/assets/5348188b-394d-4729-925e-4d556fa50378" />
+<img width="487" height="467" alt="image" src="https://github.com/user-attachments/assets/3aedc3ed-38ce-4113-b37f-5fbab19c74b6" />
 
-<img width="539" height="403" alt="image" src="https://github.com/user-attachments/assets/15723ea5-71de-4e73-aaa7-816119709549" />](https://github.com/kirill932/LR6/blob/other/README.md)
 
 
 Создана ветка для отчёта.Получена история операций в форматированном виде
