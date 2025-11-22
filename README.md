@@ -60,7 +60,8 @@ Git уже был установлен.
 <img width="281" height="219" alt="image" src="https://github.com/user-attachments/assets/a9d67bc8-c97f-4b0d-88ec-6969230ef639" />
 
 Сделаны и зафиксированы изменения, оставлены комментарии.
-   <img width="570" height="359" alt="image" src="https://github.com/user-attachments/assets/f57720a1-4c71-4c85-a652-9586aae788c6" />
+
+<img width="570" height="359" alt="image" src="https://github.com/user-attachments/assets/f57720a1-4c71-4c85-a652-9586aae788c6" />
    
 <img width="542" height="375" alt="image" src="https://github.com/user-attachments/assets/29295537-78b1-4b2d-8069-d378c6af1706" />
 
