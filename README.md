@@ -1,16 +1,17 @@
-Лабораторная работа №6
+# Лабораторная работа №6
+
 Цель лабораторной работы: изучение базовых возможностей системы управления версиями, опыт работы с Git API, опыт работы с локальным и удалённым репозиторием.
 
-Ход работы
-Скриношоты представлены в папке screenshots
+## Ход работы
 
-Аккаунт на github уже был.
+### Скриношоты представлены в папке screenshots
 
-Сделана копия в личное хранилище из https://github.com/Kurtyanik/LR6/.
-
-Git уже был установлен.
-
-Настроен клиент git, введено имя пользователя (Группа Фамилия И.О.) и email.
+1. Аккаунт на github уже был.
+2. Сделана копия в личное хранилище из
+https://github.com/Kurtyanik/LR6/.
+3. Git уже был установлен.
+4. Настроен клиент git, введено имя пользователя (Группа
+Фамилия И.О.) и email.
 
 <img width="449" height="159" alt="image" src="https://github.com/user-attachments/assets/34f4b109-ece0-4398-bcf9-89e589e8e97c" />
 
@@ -53,14 +54,6 @@ Git уже был установлен.
 
 
 
-
-
-
-
-
-
-
-
 Удалена побочная ветка после успешного слияния.
 
 <img width="281" height="219" alt="image" src="https://github.com/user-attachments/assets/a9d67bc8-c97f-4b0d-88ec-6969230ef639" />
@@ -86,45 +79,30 @@ Git уже был установлен.
 <img width="539" height="403" alt="image" src="https://github.com/user-attachments/assets/15723ea5-71de-4e73-aaa7-816119709549" />
 
 
-Создана ветка для отчёта.
+Создана ветка для отчёта.Получена история операций в форматированном виде
 
 <img width="460" height="211" alt="image" src="https://github.com/user-attachments/assets/26d6a5d6-07a5-431a-964a-f054b3e0fa84" />
 
 
-Получена история операций в форматированном виде
+## Лог команд
 
+	git clone
+	git add
+	git commit -m
+	git push
+	git show
+	git branch
+	git checkout
+	git log
+	git merge
+	git branch -d
+	git revert HEAD
+	git push
+	git log --pretty=format:"%h %ad %an %s" --date=short
+	git config --global user.name
+	git config --global user.email
 
-Лог команд
-git clone
+## Вывод
 
-git add
-
-git commit -m
-
-git push
-
-git show
-
-git branch
-
-git checkout
-
-git log
-
-git merge
-
-git branch -d
-
-git revert HEAD
-
-git push
-
-git log --pretty=format:"%h %ad %an %s" --date=short
-
-git config --global user.name
-
-git config --global user.email
-
-
-Вывод
-В ходе лабораторной работы были изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и локальным и удаленным репозиториями, также был получен опыт работы с Markdown.
+В ходе лабораторной работы были изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и локальным и удаленным репозиториями, 
+также был получен опыт работы с Markdown.
